@@ -33,4 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdimohamadzadeh&show_icons=true&locale=en" alt="mahdimohamadzadeh" /></p>
 
 <h3 align="left">My awards :</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdimohamadzadeh" alt="mahdimohamadzadeh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdimohamadzadeh" alt="mahdimohamadzadeh" /></a> </p>
