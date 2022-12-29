@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Online furniture store](https://gitlab.com/mobl-shop/mobl-shop)
 
-- 🌱 I’m currently learning **html-css tailwindcss js vue.js nuxt.js**
-
 - 👯 Building a project to sell fire extinguishers [capsule-sales](https://github.com/mahdimohamadzadeh/capsule-sales)
+
+- 🌱 I’m currently learning **html-css , tailwindcss , js , vue.js , nuxt.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahdimohamadzadeh](https://github.com/mahdimohamadzadeh)
 
