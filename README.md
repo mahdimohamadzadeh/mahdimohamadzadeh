@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadzadeh" /> </p> 
 
 - 🔭 I’m currently working on [Online furniture store](https://gitlab.com/mobl-shop/mobl-shop)
 
