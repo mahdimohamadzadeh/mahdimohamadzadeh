@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Mohamadzadeh</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://twitter.com/mahdi45858716" target="blank"><img src="https://img.shields.io/twitter/follow/mahdi45858716?logo=twitter&style=for-the-badge" alt="mahdi45858716" /></a> </p>
+
 
 - 🔭 I’m currently working on [Online furniture store](https://gitlab.com/mobl-shop/mobl-shop)
 
