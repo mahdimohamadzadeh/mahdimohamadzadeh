@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadzadeh" /> </p> 
 
-- 🔭 I’m currently working on [Online furniture store](https://gitlab.com/mobl-shop/mobl-shop)
+- 🔭 I’m currently working on freelancer position 
 
 - 👯 Building a project to sell fire extinguishers [capsule-sales](https://github.com/mahdimohamadzadeh/capsule-sales)
 
